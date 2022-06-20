@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http:/172.31.87.20:8081/repository/Ebay-release/</url>
+	      <url>http:/172.31.87.20:8081/repository/Zelle-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.87.20:8081/repository/Ebay-snapshot/</url>
+	      <url>http://172.31.87.20:8081/repository/Zelle-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
